@@ -18,6 +18,7 @@
 ## :mag: Análise exploratória dos Dados
 
 - Lorem Ipsum
+- [TF-IDF]()
 
 ## :slot_machine: Modelagem de dados
 
