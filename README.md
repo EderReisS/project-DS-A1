@@ -18,7 +18,8 @@
 ## :mag: Análise exploratória dos Dados
 
 - Lorem Ipsum
-- [TF-IDF]()
+### Processamento Natural da Linguagem
+- [TF-IDF](https://github.com/EderReisS/project-DS-A1/blob/main/Machine_Learning_Aplicado/Processamento_Natural_da_Linguaguem/TF-IDF.ipynb)
 
 ## :slot_machine: Modelagem de dados
 
